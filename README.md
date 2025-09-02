@@ -122,8 +122,6 @@ cat /root/root.txt
 3. **Reverse Shell PHP**
 4. **Escalada mediante SUID exploitation**
 
-> ⚠️ **Aviso Legal**: Solo para uso en entornos controlados con permiso explícito.
-
 ---
 
 **Herramientas utilizadas**:
